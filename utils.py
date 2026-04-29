@@ -3,4 +3,4 @@ def connect_string(config):
 
 # Person2 добавил эту строку
 
-# Person1 added this line at the bottom
+# Person3 changed this line
