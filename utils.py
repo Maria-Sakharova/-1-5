@@ -1,5 +1,5 @@
 def connect_string(config):
-    return f"host={config['host']} port={config['port']}"
+# Person1 inserted a DIFFERENT line in the middle
 
 # Person2 добавил эту строку
 
