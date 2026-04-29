@@ -5,3 +5,6 @@ DB_CONFIG = {
     'user': 'admin',
     'password': 'secret'
 }
+
+# Добавлен новый параметр timeout
+'timeout': 30,
