@@ -1,3 +1,4 @@
+# Person3 added this line at the top
 def connect_string(config):
 # Person3 inserted this line in the middle
     return f"host={config['host']} port={config['port']}"
