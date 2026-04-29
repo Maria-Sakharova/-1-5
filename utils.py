@@ -1,6 +1,6 @@
 # Person3 added this line at the top
 def connect_string(config):
-# Person3 inserted this line in the middle
+# MAIN BRANCH: changed line 3
     return f"host={config['host']} port={config['port']}"
 
 # Person2 добавил эту строку
